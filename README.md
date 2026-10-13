@@ -4,7 +4,7 @@ A responsive landing page for a focus app, built with HTML/CSS/JS
 
 ![Desktop preview](screenshots/desktop.png)
 
-##Features
+## Features
 
 - Fully responsive layout (desktop, tablet, mobile)
 - Custome fonts
