@@ -1,26 +1,27 @@
 # DeepFocus
 
-A responsive landing page for a focus app, built with HTML/CSS/JS
+A responsive landing page for a focus app, built with HTML, CSS and JavaScript.
+
+🔗 **Live Demo:** https://amir0rr.github.io/DeepFocus/
 
 ![Desktop preview](screenshots/desktop.png)
 
 ## Features
 
 - Fully responsive layout (desktop, tablet, mobile)
-- Custome fonts
-- Smooth scroll
-- Quick access
+- Custom fonts
+- Smooth scrolling between sections
 
 ## Built With
 
-- Html
-- Css
+- HTML5
+- CSS3 (Flexbox, Grid, media queries)
 - JavaScript
 
-## What I Learned?
+## What I Learned
 
-- Work with media query
-- Create responsive layouts with Flexbox/Grid
+- Using media queries for different screen sizes
+- Building responsive layouts with Flexbox and Grid
 
 ## Run Locally
 
